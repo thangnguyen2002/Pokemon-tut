@@ -25,7 +25,7 @@ const PokemonColection: React.FC<Props> = (props) => { //phim tat rafce tao nhan
       <section
         className={
           viewDetail.isOpened
-            ? "collection-container-active"1
+            ? "collection-container-active"
             : "collection-container"
         }
       >
